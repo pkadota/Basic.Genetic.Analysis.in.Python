@@ -1,1 +1,1 @@
-# Basic-Genetic-Analysis-in-Python
+# Basic Genetic Analysis in Python
